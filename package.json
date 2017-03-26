@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "aws-deploy-ebs": "bin/aws-deploy-eb.js",
-    "ade": "bin/aws-deploy-eb.js"
+    "aws-deploy-ebs": "bin/aws-deploy-ebs.js",
+    "ade": "bin/aws-deploy-ebs.js"
   },
   "repository": {
     "type": "git",
