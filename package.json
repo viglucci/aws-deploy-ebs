@@ -1,5 +1,5 @@
 {
-  "name": "aws-eb-deploy",
+  "name": "aws-eb-deploy-cli",
   "version": "0.0.1",
   "description": "CLI tool for deploying to AWS Elastic Beanstalk with Docker",
   "scripts": {
