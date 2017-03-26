@@ -1,7 +1,6 @@
 var gulp     = require("gulp");
 var zip      = require("gulp-zip");
 var rename   = require("gulp-rename");
-var conca    = require("gulp-concat");
 var run      = require("run-sequence");
 var del      = require("del");
 var path     = require("path");
