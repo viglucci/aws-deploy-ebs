@@ -8,7 +8,7 @@
   },
   "bin": {
     "aws-deploy-ebs": "bin/aws-deploy-eb.js",
-    "ade": "bin/aws-deploy-eb.js",
+    "ade": "bin/aws-deploy-eb.js"
   },
   "repository": {
     "type": "git",
