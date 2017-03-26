@@ -1,5 +1,5 @@
 {
-  "name": "aws-deploy-ebs",
+  "name": "aws-eb-deploy",
   "version": "0.0.1",
   "description": "CLI tool for deploying to AWS Elastic Beanstalk with Docker",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "aws-deploy-ebs": "bin/aws-deploy-ebs.js",
-    "ade": "bin/aws-deploy-ebs.js"
+    "aws-deploy-ebs": "bin/aws-eb-deploy.js",
+    "ade": "bin/aws-eb-deploy.js"
   },
   "repository": {
     "type": "git",
